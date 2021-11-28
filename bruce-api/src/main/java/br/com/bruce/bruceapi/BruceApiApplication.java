@@ -8,7 +8,7 @@ public class BruceApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BruceApiApplication.class, args);
-		
+		kmz,xmc
 	}
 
 }
